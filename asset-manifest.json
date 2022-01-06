@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.736263a3.js",
-    "static/js/787.34bc608b.chunk.js": "/static/js/787.34bc608b.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.736263a3.js.map": "/static/js/main.736263a3.js.map",
-    "787.34bc608b.chunk.js.map": "/static/js/787.34bc608b.chunk.js.map"
+    "main.css": "/demo.mcstsolutions.com/static/css/main.073c9b0a.css",
+    "main.js": "/demo.mcstsolutions.com/static/js/main.0716e096.js",
+    "static/js/787.34bc608b.chunk.js": "/demo.mcstsolutions.com/static/js/787.34bc608b.chunk.js",
+    "index.html": "/demo.mcstsolutions.com/index.html",
+    "main.073c9b0a.css.map": "/demo.mcstsolutions.com/static/css/main.073c9b0a.css.map",
+    "main.0716e096.js.map": "/demo.mcstsolutions.com/static/js/main.0716e096.js.map",
+    "787.34bc608b.chunk.js.map": "/demo.mcstsolutions.com/static/js/787.34bc608b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.736263a3.js"
+    "static/js/main.0716e096.js"
   ]
 }
